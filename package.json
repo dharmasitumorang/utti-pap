@@ -1,0 +1,30 @@
+{
+  "name": "galeri-putri",
+  "version": "1.0.0",
+  "description": "ini web buat nyimpan pap lucu putri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/tailwind.css -o ./dist/css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmasitumorang/utti-pap.git"
+  },
+  "keywords": [
+    "galery",
+    "foto",
+    "pap",
+    "lucu",
+    "cantik"
+  ],
+  "author": "dharmasitumorang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dharmasitumorang/utti-pap/issues"
+  },
+  "homepage": "https://github.com/dharmasitumorang/utti-pap#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
