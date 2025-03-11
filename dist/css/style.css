@@ -877,6 +877,10 @@ video {
   background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0030.jpg');
 }
 
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0047\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0047.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
