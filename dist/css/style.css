@@ -601,28 +601,9 @@ video {
   margin-right: auto;
 }
 
-.my-24 {
-  margin-top: 6rem;
-  margin-bottom: 6rem;
-}
-
-.my-80 {
-  margin-top: 20rem;
-  margin-bottom: 20rem;
-}
-
-.my-40 {
-  margin-top: 10rem;
-  margin-bottom: 10rem;
-}
-
 .my-48 {
   margin-top: 12rem;
   margin-bottom: 12rem;
-}
-
-.mb-10 {
-  margin-bottom: 2.5rem;
 }
 
 .mt-10 {
@@ -633,8 +614,8 @@ video {
   margin-top: 0.5rem;
 }
 
-.mt-24 {
-  margin-top: 6rem;
+.mt-20 {
+  margin-top: 5rem;
 }
 
 .mt-4 {
@@ -647,14 +628,6 @@ video {
 
 .mt-8 {
   margin-top: 2rem;
-}
-
-.mt-20 {
-  margin-top: 5rem;
-}
-
-.block {
-  display: block;
 }
 
 .inline-block {
@@ -723,6 +696,10 @@ video {
   overflow: hidden;
 }
 
+.scroll-smooth {
+  scroll-behavior: smooth;
+}
+
 .text-wrap {
   text-wrap: wrap;
 }
@@ -740,14 +717,14 @@ video {
   border-bottom-left-radius: 9999px;
 }
 
+.bg-blue-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(59 130 246 / var(--tw-bg-opacity, 1));
+}
+
 .bg-red-600 {
   --tw-bg-opacity: 1;
   background-color: rgb(220 38 38 / var(--tw-bg-opacity, 1));
-}
-
-.bg-slate-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(203 213 225 / var(--tw-bg-opacity, 1));
 }
 
 .bg-slate-500 {
@@ -755,222 +732,44 @@ video {
   background-color: rgb(100 116 139 / var(--tw-bg-opacity, 1));
 }
 
-.bg-blue-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(59 130 246 / var(--tw-bg-opacity, 1));
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0013\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0013.jpg');
 }
 
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0014\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0014.jpg');
 }
 
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=1\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=1');
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0016\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0016.jpg');
 }
 
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=10\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=10');
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0019\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0019.jpg');
 }
 
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=2\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=2');
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0021\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0021.jpg');
 }
 
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=3\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=3');
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0025\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0025.jpg');
 }
 
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=4\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=4');
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0027\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0027.jpg');
 }
 
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=5\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=5');
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0029\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0029.jpg');
 }
 
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=6\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=6');
-}
-
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=7\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=7');
-}
-
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=8\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=8');
-}
-
-.bg-\[url\(\'https\:\/\/picsum\.photos\/200\/300\?random\=9\'\)\] {
-  background-image: url('https://picsum.photos/200/300?random=9');
-}
-
-.bg-\[url\(\'dist\'\)\] {
-  background-image: url('dist');
-}
-
-.bg-\[url\(\'dist\/galery\/\'\)\] {
-  background-image: url('dist/galery/');
-}
-
-.bg-\[url\(\'dist\\galery\\IMG-20250308-WA0013\.jpg\'\)\] {
-  background-image: url('dist\galery\IMG-20250308-WA0013.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\\IMG-20250308-WA0013\.jpg\'\)\] {
-  background-image: url('dist/galery\IMG-20250308-WA0013.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\/IMG-20250308-WA0013\.jpg\'\)\] {
-  background-image: url('dist/galery/IMG-20250308-WA0013.jpg');
-}
-
-.bg-\[url\(\'\.\/dist\/galery\/IMG-20250308-WA0013\.jpg\'\)\] {
-  background-image: url('./dist/galery/IMG-20250308-WA0013.jpg');
-}
-
-.bg-\[url\(\'\/dist\/galery\/IMG-20250308-WA0013\.jpg\'\)\] {
-  background-image: url('/dist/galery/IMG-20250308-WA0013.jpg');
-}
-
-.bg-\[url\(\'dist\/galeryIMG-20250308-WA0013\.jpg\'\)\] {
-  background-image: url('dist/galeryIMG-20250308-WA0013.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\\IMG-20250308-WA0014\.jpg\'\)\] {
-  background-image: url('dist\galery\IMG-20250308-WA0014.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\\IMG-20250308-WA0016\.jpg\'\)\] {
-  background-image: url('dist\galery\IMG-20250308-WA0016.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\\IMG-20250308-WA0019\.jpg\'\)\] {
-  background-image: url('dist\galery\IMG-20250308-WA0019.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\\IMG-20250308-WA0021\.jpg\'\)\] {
-  background-image: url('dist\galery\IMG-20250308-WA0021.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\\IMG-20250308-WA0025\.jpg\'\)\] {
-  background-image: url('dist\galery\IMG-20250308-WA0025.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\\IMG-20250308-WA0027\.jpg\'\)\] {
-  background-image: url('dist\galery\IMG-20250308-WA0027.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\\IMG-20250308-WA0029\.jpg\'\)\] {
-  background-image: url('dist\galery\IMG-20250308-WA0029.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\\IMG-20250308-WA0030\.jpg\'\)\] {
-  background-image: url('dist\galery\IMG-20250308-WA0030.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\/IMG-20250308-WA0014\.jpg\'\)\] {
-  background-image: url('dist\galery/IMG-20250308-WA0014.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\/IMG-20250308-WA0016\.jpg\'\)\] {
-  background-image: url('dist\galery/IMG-20250308-WA0016.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\/IMG-20250308-WA0019\.jpg\'\)\] {
-  background-image: url('dist\galery/IMG-20250308-WA0019.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\/IMG-20250308-WA0021\.jpg\'\)\] {
-  background-image: url('dist\galery/IMG-20250308-WA0021.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\/IMG-20250308-WA0025\.jpg\'\)\] {
-  background-image: url('dist\galery/IMG-20250308-WA0025.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\/IMG-20250308-WA0027\.jpg\'\)\] {
-  background-image: url('dist\galery/IMG-20250308-WA0027.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\/IMG-20250308-WA0029\.jpg\'\)\] {
-  background-image: url('dist\galery/IMG-20250308-WA0029.jpg');
-}
-
-.bg-\[url\(\'dist\\galery\/IMG-20250308-WA0030\.jpg\'\)\] {
-  background-image: url('dist\galery/IMG-20250308-WA0030.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\/IMG-20250308-WA0014\.jpg\'\)\] {
-  background-image: url('dist/galery/IMG-20250308-WA0014.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\/IMG-20250308-WA0016\.jpg\'\)\] {
-  background-image: url('dist/galery/IMG-20250308-WA0016.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\/IMG-20250308-WA0019\.jpg\'\)\] {
-  background-image: url('dist/galery/IMG-20250308-WA0019.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\/IMG-20250308-WA0021\.jpg\'\)\] {
-  background-image: url('dist/galery/IMG-20250308-WA0021.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\/IMG-20250308-WA0025\.jpg\'\)\] {
-  background-image: url('dist/galery/IMG-20250308-WA0025.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\/IMG-20250308-WA0027\.jpg\'\)\] {
-  background-image: url('dist/galery/IMG-20250308-WA0027.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\/IMG-20250308-WA0029\.jpg\'\)\] {
-  background-image: url('dist/galery/IMG-20250308-WA0029.jpg');
-}
-
-.bg-\[url\(\'dist\/galery\/IMG-20250308-WA0030\.jpg\'\)\] {
-  background-image: url('dist/galery/IMG-20250308-WA0030.jpg');
-}
-
-.bg-\[url\(\'\/dist\/galery\/IMG-20250308-WA0014\.jpg\'\)\] {
-  background-image: url('/dist/galery/IMG-20250308-WA0014.jpg');
-}
-
-.bg-\[url\(\'\/dist\/galery\/IMG-20250308-WA0016\.jpg\'\)\] {
-  background-image: url('/dist/galery/IMG-20250308-WA0016.jpg');
-}
-
-.bg-\[url\(\'\/dist\/galery\/IMG-20250308-WA0019\.jpg\'\)\] {
-  background-image: url('/dist/galery/IMG-20250308-WA0019.jpg');
-}
-
-.bg-\[url\(\'\/dist\/galery\/IMG-20250308-WA0021\.jpg\'\)\] {
-  background-image: url('/dist/galery/IMG-20250308-WA0021.jpg');
-}
-
-.bg-\[url\(\'\/dist\/galery\/IMG-20250308-WA0025\.jpg\'\)\] {
-  background-image: url('/dist/galery/IMG-20250308-WA0025.jpg');
-}
-
-.bg-\[url\(\'\/dist\/galery\/IMG-20250308-WA0027\.jpg\'\)\] {
-  background-image: url('/dist/galery/IMG-20250308-WA0027.jpg');
-}
-
-.bg-\[url\(\'\/dist\/galery\/IMG-20250308-WA0029\.jpg\'\)\] {
-  background-image: url('/dist/galery/IMG-20250308-WA0029.jpg');
-}
-
-.bg-\[url\(\'\/dist\/galery\/IMG-20250308-WA0030\.jpg\'\)\] {
-  background-image: url('/dist/galery/IMG-20250308-WA0030.jpg');
+.bg-\[url\(\'https\:\/\/dharmasitumorang\.github\.io\/utti-pap\/dist\/galery\/IMG-20250308-WA0030\.jpg\'\)\] {
+  background-image: url('https://dharmasitumorang.github.io/utti-pap/dist/galery/IMG-20250308-WA0030.jpg');
 }
 
 .bg-cover {
   background-size: cover;
-}
-
-.bg-contain {
-  background-size: contain;
 }
 
 .bg-center {
@@ -981,25 +780,9 @@ video {
   background-position: top;
 }
 
-.bg-left-top {
-  background-position: left top;
-}
-
-.bg-bottom {
-  background-position: bottom;
-}
-
-.bg-no-repeat {
-  background-repeat: no-repeat;
-}
-
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
-}
-
-.p-2 {
-  padding: 0.5rem;
 }
 
 .px-5 {
@@ -1019,10 +802,6 @@ video {
 
 .pb-12 {
   padding-bottom: 3rem;
-}
-
-.pt-24 {
-  padding-top: 6rem;
 }
 
 .pt-10 {
@@ -1066,21 +845,16 @@ video {
   line-height: 1.75rem;
 }
 
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
 .font-bold {
   font-weight: 700;
 }
 
-.font-semibold {
-  font-weight: 600;
-}
-
 .font-medium {
   font-weight: 500;
+}
+
+.font-semibold {
+  font-weight: 600;
 }
 
 .uppercase {
@@ -1101,6 +875,16 @@ video {
   color: rgb(14 165 233 / var(--tw-text-opacity, 1));
 }
 
+.text-slate-200 {
+  --tw-text-opacity: 1;
+  color: rgb(226 232 240 / var(--tw-text-opacity, 1));
+}
+
+.text-slate-400 {
+  --tw-text-opacity: 1;
+  color: rgb(148 163 184 / var(--tw-text-opacity, 1));
+}
+
 .text-slate-800 {
   --tw-text-opacity: 1;
   color: rgb(30 41 59 / var(--tw-text-opacity, 1));
@@ -1109,31 +893,6 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
-}
-
-.text-slate-600 {
-  --tw-text-opacity: 1;
-  color: rgb(71 85 105 / var(--tw-text-opacity, 1));
-}
-
-.text-slate-500 {
-  --tw-text-opacity: 1;
-  color: rgb(100 116 139 / var(--tw-text-opacity, 1));
-}
-
-.text-slate-400 {
-  --tw-text-opacity: 1;
-  color: rgb(148 163 184 / var(--tw-text-opacity, 1));
-}
-
-.text-slate-700 {
-  --tw-text-opacity: 1;
-  color: rgb(51 65 85 / var(--tw-text-opacity, 1));
-}
-
-.text-slate-200 {
-  --tw-text-opacity: 1;
-  color: rgb(226 232 240 / var(--tw-text-opacity, 1));
 }
 
 .shadow-lg {
