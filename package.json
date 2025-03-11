@@ -26,5 +26,8 @@
   "homepage": "https://github.com/dharmasitumorang/utti-pap#readme",
   "devDependencies": {
     "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "lightbox2": "^2.11.5"
   }
 }
